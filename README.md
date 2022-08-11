@@ -19,6 +19,8 @@
 ## 기획
 ### 1. 프로젝트 소개
 
+- <b>개발 기간: 2022.06.01 ~ 2022.06.30</b>
+
 ![image](https://user-images.githubusercontent.com/44182633/183571505-dddd27d1-e9fc-4907-936e-0442b2e710b6.png)
 
 <br><br>
